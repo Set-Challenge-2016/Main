@@ -1,0 +1,37 @@
+18-05-2016 - Stu
+-------------------------------------------------------------------------
+Installed Windows 7 with username kj2 and password 'set'
+Ran Windows updates
+Installed Google Chrome browser
+Installed .NET Framework 4.6 (needed for next step)
+Installed Avast free internet security
+Installed Kinect SDK 1.8 (Tried SDK 2.0 but it is only for Windows 8 and later)
+Logged into Gmail and Github with the setchallenge2016@gmail.com email 
+  This.Is,Set and This.Is,Set16 passwords
+Installed Kinetic Developer toolkit 1.8
+
+19-05-2016 - Stu
+-------------------------------------------------------------------------
+Launched Kinect Developer Toolkit
+Launched Kinect Developer Studio
+Uninstalled Installed Kinect SDK 1.8
+Uninstalled Kinetic Developer toolkit 1.8
+Installed Kinect SDK 1.7
+Installed Kinetic Developer toolkit 1.7
+Installed Visual Studio 2015 Update 2 (x86 and x64) - DVD (Multiple Languages) - from MSDN 
+Plugged in webcam and it just worked
+Plugged in fingerprint scanner.
+Inserted the fingerprint driver CD and virus scanned it with Avast
+Copied the WIN7 folder (2 files) to PC, removed the chinese characters from filename, and ran setup then BioExcess file
+LED Display setup default options
+TIP: To use LED display, change option to be 12pixel mono
+Installed WinISO to read the Visual Studio iso file
+Installed Visual Studio 15 Enterprise Update 2 via web installer (free)
+
+25-05-2016 - Chris E
+----------------------------------------------------------------------
+Something which may be useful - https://forum.openframeworks.cc/t/multiple-kinect-setup-for-real-time-volumetric-reconstruction-and-tracking-of-people/15271/4
+
+27-05-2016 - Chris E
+------------------------------------------------------------------------
+Tried a lot to get the openBR stuff to work. Got to stage 6 before it wouldnt work anymore. Home time now though
